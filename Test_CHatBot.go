@@ -1,4 +1,4 @@
-package NoAI
+package main
 
 import (
 	"fmt"
