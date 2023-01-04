@@ -1,4 +1,4 @@
-module 'C:\OneDrive\My Projects\'
+package NoAI
 
 import (
 	"fmt"
